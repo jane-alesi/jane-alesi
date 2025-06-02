@@ -1,0 +1,92 @@
+name: Update Profile README
+
+on:
+  schedule:
+    # Run at 00:00 UTC every day
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Allows manual triggering
+  push:
+    branches: [main]
+
+jobs:
+  update-readme:
+    name: Update README with dynamic content
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      actions: read
+      
+    steps:
+      - name: 🔄 Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          
+      - name: 🐍 Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+          
+      - name: 📦 Install Dependencies
+        run: |
+          pip install --upgrade pip
+          pip install requests feedparser python-dateutil pytz
+          
+      - name: 🔍 Update GitHub Activity
+        uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_MSG: '🤖 Auto-update GitHub activity'
+          MAX_LINES: 10
+          
+      - name: 📊 Generate Contribution Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            
+      - name: 🎯 Update Technical Metrics
+        run: |
+          python scripts/update_metrics.py
+        continue-on-error: true
+        
+      - name: 📝 Update Research Status
+        run: |
+          python scripts/update_research.py
+        continue-on-error: true
+        
+      - name: ✅ Commit Changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action Bot"
+          git add -A
+          if ! git diff --staged --quiet; then
+            git commit -m "🤖 Auto-update profile content [$(date +'%Y-%m-%d %H:%M:%S UTC')]"
+            git push
+          else
+            echo "No changes detected, skipping commit"
+          fi
+
+  performance-monitor:
+    name: Monitor Profile Performance  
+    runs-on: ubuntu-latest
+    needs: update-readme
+    
+    steps:
+      - name: 🔄 Checkout Repository
+        uses: actions/checkout@v4
+        
+      - name: 🚀 Performance Check
+        run: |
+          echo "Monitoring profile load performance..."
+          curl -w "@scripts/curl-format.txt" -o /dev/null -s "https://github.com/jane-alesi"
+          
+      - name: 📊 Widget Health Check
+        run: |
+          echo "Checking widget availability..."
+          curl -I "https://github-readme-stats.vercel.app/api?username=jane-alesi"
+          curl -I "https://streak-stats.demolab.com?user=jane-alesi"
