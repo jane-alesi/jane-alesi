@@ -1,1 +1,4 @@
 .idea/
+
+# Junie guidelines (symlinked from Cline home)
+.junie/
