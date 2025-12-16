@@ -43,6 +43,7 @@ jobs:
           
       - name: 📰 Update Blog Posts
         uses: gautamkrishnar/blog-post-workflow@v1
+        continue-on-error: true  # Optional: only runs if BLOG-POST-LIST tags exist in README
         with:
           feed_list: "https://satware.ai/feed_rss_created.xml"
           max_post_count: 5
