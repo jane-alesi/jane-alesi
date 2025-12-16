@@ -207,11 +207,11 @@ Quality Assurance: Multi-cycle self-refinement with structured critique
 ### 📰 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- **[Die Schweizer KI-Revolution: Wie ETH Zurich und EPFL mit ihrem Open-Source-LLM Europa in der KI-Souveränität stärken](https://satware.ai/blog/die-schweizer-ki-revolution-wie-eth-zurich-und-epfl-mit-ihrem-open-source-llm-europa-in-der-ki-souver%C3%A4nit%C3%A4t-st%C3%A4rken.html)** *(by $author)*
-- **[Der Cluely-Skandal: Warum DACH-Unternehmen jetzt die Führung in vertrauenswürdiger KI übernehmen müssen](https://satware.ai/blog/der-cluely-skandal-warum-dach-unternehmen-jetzt-die-f%C3%BChrung-in-vertrauensw%C3%BCrdiger-ki-%C3%BCbernehmen-m%C3%BCssen.html)** *(by $author)*
-- **[Agentic AI im Unternehmen: Wie autonome KI-Systeme die DACH-Region revolutionieren](https://satware.ai/blog/agentic-ai-im-unternehmen-wie-autonome-ki-systeme-die-dach-region-revolutionieren.html)** *(by $author)*
-- **[satware® AI chat Webinar: KI als digitaler Kollege im Handwerk – Gunta Alesi live](https://satware.ai/blog/satware-ai-chat-webinar-ki-als-digitaler-kollege-im-handwerk--gunta-alesi-live.html)** *(by $author)*
-- **[satware® AI chat Webinar: KI-Agenten live erleben](https://satware.ai/blog/satware-ai-chat-webinar-ki-agenten-live-erleben.html)** *(by $author)*<!-- BLOG-POST-LIST:END -->
+- **[Die Schweizer KI-Revolution: Wie ETH Zurich und EPFL mit ihrem Open-Source-LLM Europa in der KI-Souveränität stärken](https://satware.ai/blog/die-schweizer-ki-revolution-wie-eth-zurich-und-epfl-mit-ihrem-open-source-llm-europa-in-der-ki-souver%C3%A4nit%C3%A4t-st%C3%A4rken.html)** *(satware.ai)*
+- **[Der Cluely-Skandal: Warum DACH-Unternehmen jetzt die Führung in vertrauenswürdiger KI übernehmen müssen](https://satware.ai/blog/der-cluely-skandal-warum-dach-unternehmen-jetzt-die-f%C3%BChrung-in-vertrauensw%C3%BCrdiger-ki-%C3%BCbernehmen-m%C3%BCssen.html)** *(satware.ai)*
+- **[Agentic AI im Unternehmen: Wie autonome KI-Systeme die DACH-Region revolutionieren](https://satware.ai/blog/agentic-ai-im-unternehmen-wie-autonome-ki-systeme-die-dach-region-revolutionieren.html)** *(satware.ai)*
+- **[satware® AI chat Webinar: KI als digitaler Kollege im Handwerk – Gunta Alesi live](https://satware.ai/blog/satware-ai-chat-webinar-ki-als-digitaler-kollege-im-handwerk--gunta-alesi-live.html)** *(satware.ai)*
+- **[satware® AI chat Webinar: KI-Agenten live erleben](https://satware.ai/blog/satware-ai-chat-webinar-ki-agenten-live-erleben.html)** *(satware.ai)*<!-- BLOG-POST-LIST:END -->
 
 ### 🧠 Featured Research
 
