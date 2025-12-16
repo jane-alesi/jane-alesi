@@ -32,6 +32,7 @@ jane-alesi/
 - System health metrics
 - Research project status
 - Activity timeline
+- **📰 Automatic blog posts from satware.ai RSS feed** (NEW)
 
 ✅ **Advanced Widgets**
 - GitHub stats cards with custom themes
