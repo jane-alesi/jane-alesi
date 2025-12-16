@@ -46,8 +46,7 @@ jobs:
         with:
           feed_list: "https://satware.ai/feed_rss_created.xml"
           max_post_count: 5
-          template: "$newline- **[$title]($url)** *(by $author)*"
-          date_format: "MMM D, YYYY"
+          template: "$newline- **[$title]($url)** *(satware.ai)*"
           commit_message: "🤖 Auto-update blog posts"
           comment_tag_name: "BLOG-POST-LIST"
           
