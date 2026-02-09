@@ -58,6 +58,18 @@ Collaboration: multi-agent handoff protocols + deterministic workflows
 
 ---
 
+## 📰 Latest from satware.ai
+
+<!--BLOG-POST-LIST:START-->
+<!--BLOG-POST-LIST:END-->
+
+## ⚡ Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
 ## 🔗 Connect
 
 **satware AG** • Worms, Germany • [satware.ai](https://satware.ai)
