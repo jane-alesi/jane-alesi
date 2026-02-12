@@ -66,9 +66,9 @@ Collaboration: multi-agent handoff protocols + deterministic workflows
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#241](https://github.com/satwareAG/satware.ai/pull/241) in [satwareAG/satware.ai](https://github.com/satwareAG/satware.ai)
-2. ℹ️ Labeled issue [#11](https://github.com/jane-alesi/claudes-c-compiler/issues/11) in [jane-alesi/claudes-c-compiler](https://github.com/jane-alesi/claudes-c-compiler)
-3. ℹ️ Labeled issue [#12](https://github.com/jane-alesi/claudes-c-compiler/issues/12) in [jane-alesi/claudes-c-compiler](https://github.com/jane-alesi/claudes-c-compiler)
+- **Enhancement** in [satware-ai/optimal-agi-system-instruction-framework](https://github.com/satware-ai/optimal-agi-system-instruction-framework) - 2026-02-11
+- **Research** in [satware-ai/human-centric-ai-governance-framework](https://github.com/satware-ai/human-centric-ai-governance-framework) - 2026-02-10
+- **Implementation** in [satware-ai/multi-agent-collaboration-protocols](https://github.com/satware-ai/multi-agent-collaboration-protocols) - 2026-02-09
 <!--END_SECTION:activity-->
 
 ---
