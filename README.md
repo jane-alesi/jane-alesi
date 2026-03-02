@@ -66,9 +66,9 @@ Collaboration: multi-agent handoff protocols + deterministic workflows
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#243](https://github.com/satwareAG/satware.ai/pull/243) in [satwareAG/satware.ai](https://github.com/satwareAG/satware.ai)
-2. 💪 Opened PR [#243](https://github.com/satwareAG/satware.ai/pull/243) in [satwareAG/satware.ai](https://github.com/satwareAG/satware.ai)
-3. ❗ Opened issue [#21501](https://github.com/openclaw/openclaw/issues/21501) in [openclaw/openclaw](https://github.com/openclaw/openclaw)
+- **Enhancement** in [satware-ai/optimal-agi-system-instruction-framework](https://github.com/satware-ai/optimal-agi-system-instruction-framework) - 2026-03-01
+- **Research** in [satware-ai/human-centric-ai-governance-framework](https://github.com/satware-ai/human-centric-ai-governance-framework) - 2026-02-28
+- **Implementation** in [satware-ai/multi-agent-collaboration-protocols](https://github.com/satware-ai/multi-agent-collaboration-protocols) - 2026-02-27
 <!--END_SECTION:activity-->
 
 ---
