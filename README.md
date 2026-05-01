@@ -66,9 +66,9 @@ Collaboration: multi-agent handoff protocols + deterministic workflows
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#23](https://github.com/satwareAG/spec-kit/issues/23) in [satwareAG/spec-kit](https://github.com/satwareAG/spec-kit)
-2. 🔒 Closed issue [#22](https://github.com/satwareAG/spec-kit/issues/22) in [satwareAG/spec-kit](https://github.com/satwareAG/spec-kit)
-3. 🔒 Closed issue [#9](https://github.com/satwareAG/spec-kit/issues/9) in [satwareAG/spec-kit](https://github.com/satwareAG/spec-kit)
+- **Enhancement** in [satware-ai/optimal-agi-system-instruction-framework](https://github.com/satware-ai/optimal-agi-system-instruction-framework) - 2026-04-30
+- **Research** in [satware-ai/human-centric-ai-governance-framework](https://github.com/satware-ai/human-centric-ai-governance-framework) - 2026-04-29
+- **Implementation** in [satware-ai/multi-agent-collaboration-protocols](https://github.com/satware-ai/multi-agent-collaboration-protocols) - 2026-04-28
 <!--END_SECTION:activity-->
 
 ---
