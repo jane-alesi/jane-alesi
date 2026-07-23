@@ -66,8 +66,8 @@ Collaboration: multi-agent handoff protocols + deterministic workflows
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-- **Enhancement** in [satware-ai/optimal-agi-system-instruction-framework](https://github.com/satware-ai/optimal-agi-system-instruction-framework) - 2026-07-21
-- **Research** in [satware-ai/human-centric-ai-governance-framework](https://github.com/satware-ai/human-centric-ai-governance-framework) - 2026-07-20
+1. 🔒 Closed issue [#7](https://github.com/satwareAG/lemonade/issues/7) in [satwareAG/lemonade](https://github.com/satwareAG/lemonade)
+2. 🔒 Closed issue [#1](https://github.com/satwareAG/lemonade/issues/1) in [satwareAG/lemonade](https://github.com/satwareAG/lemonade)
 - **Implementation** in [satware-ai/multi-agent-collaboration-protocols](https://github.com/satware-ai/multi-agent-collaboration-protocols) - 2026-07-19
 <!--END_SECTION:activity-->
 
