@@ -66,9 +66,9 @@ Collaboration: multi-agent handoff protocols + deterministic workflows
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/jane-alesi/reachy_mini/issues/4#issuecomment-6317068793) in [jane-alesi/reachy_mini](https://github.com/jane-alesi/reachy_mini)
-2. 🔒 Closed issue [#4](https://github.com/jane-alesi/reachy_mini/issues/4) in [jane-alesi/reachy_mini](https://github.com/jane-alesi/reachy_mini)
-3. ❗ Opened issue [#4](https://github.com/jane-alesi/reachy_mini/issues/4) in [jane-alesi/reachy_mini](https://github.com/jane-alesi/reachy_mini)
+- **Enhancement** in [satware-ai/optimal-agi-system-instruction-framework](https://github.com/satware-ai/optimal-agi-system-instruction-framework) - 2026-10-23
+- **Research** in [satware-ai/human-centric-ai-governance-framework](https://github.com/satware-ai/human-centric-ai-governance-framework) - 2026-10-22
+- **Implementation** in [satware-ai/multi-agent-collaboration-protocols](https://github.com/satware-ai/multi-agent-collaboration-protocols) - 2026-10-21
 <!--END_SECTION:activity-->
 
 ---
