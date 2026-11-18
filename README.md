@@ -66,9 +66,9 @@ Collaboration: multi-agent handoff protocols + deterministic workflows
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-- **Enhancement** in [satware-ai/optimal-agi-system-instruction-framework](https://github.com/satware-ai/optimal-agi-system-instruction-framework) - 2026-11-16
-- **Research** in [satware-ai/human-centric-ai-governance-framework](https://github.com/satware-ai/human-centric-ai-governance-framework) - 2026-11-15
-- **Implementation** in [satware-ai/multi-agent-collaboration-protocols](https://github.com/satware-ai/multi-agent-collaboration-protocols) - 2026-11-14
+1. 🗣 Commented on [#1025](https://github.com/gufo-org/gufo/issues/1025#issuecomment-6969032046) in [gufo-org/gufo](https://github.com/gufo-org/gufo)
+2. 🗣 Commented on [#1025](https://github.com/gufo-org/gufo/issues/1025#issuecomment-6968883992) in [gufo-org/gufo](https://github.com/gufo-org/gufo)
+3. 🗣 Commented on [#1025](https://github.com/gufo-org/gufo/issues/1025#issuecomment-6950854251) in [gufo-org/gufo](https://github.com/gufo-org/gufo)
 <!--END_SECTION:activity-->
 
 ---
