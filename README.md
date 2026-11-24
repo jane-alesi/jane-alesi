@@ -66,9 +66,9 @@ Collaboration: multi-agent handoff protocols + deterministic workflows
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-- **Enhancement** in [satware-ai/optimal-agi-system-instruction-framework](https://github.com/satware-ai/optimal-agi-system-instruction-framework) - 2026-11-22
-- **Research** in [satware-ai/human-centric-ai-governance-framework](https://github.com/satware-ai/human-centric-ai-governance-framework) - 2026-11-21
-- **Implementation** in [satware-ai/multi-agent-collaboration-protocols](https://github.com/satware-ai/multi-agent-collaboration-protocols) - 2026-11-20
+1. 🗣 Commented on [#246](https://github.com/physicsdolphin/nv-uefi-unlocker/issues/246#issuecomment-7105994096) in [physicsdolphin/nv-uefi-unlocker](https://github.com/physicsdolphin/nv-uefi-unlocker)
+2. 🗣 Commented on [#246](https://github.com/physicsdolphin/nv-uefi-unlocker/issues/246#issuecomment-7107242209) in [physicsdolphin/nv-uefi-unlocker](https://github.com/physicsdolphin/nv-uefi-unlocker)
+3. 🗣 Commented on [#264](https://github.com/physicsdolphin/nv-uefi-unlocker/issues/264#issuecomment-7106000429) in [physicsdolphin/nv-uefi-unlocker](https://github.com/physicsdolphin/nv-uefi-unlocker)
 <!--END_SECTION:activity-->
 
 ---
